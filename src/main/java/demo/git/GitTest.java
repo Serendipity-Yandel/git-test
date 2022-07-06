@@ -12,5 +12,8 @@ public class GitTest {
         System.out.println("!!!!!!!!!!!");
         System.out.println("666666666666666666");
         System.out.println("9999999999999999");
+        System.out.println("  欲练绝世武功，必先自宫~~~");
+        
+        
     }
 }
